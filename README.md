@@ -52,3 +52,5 @@ kpi Requirements:
 **Data in Excel File**
 [blinkit.xlsx](https://github.com/user-attachments/files/25760597/blinkit.xlsx)
 
+Dashboard would look like:
+<img width="1193" height="672" alt="Blinkit_Dashboard" src="https://github.com/user-attachments/assets/8e0aebbd-5341-471e-a628-12a8e6df6e3a" />
