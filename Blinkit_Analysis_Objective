@@ -1,0 +1,50 @@
+blinkit analysis---->
+
+Business requirement--
+To conduct a comprehensive analysis of blinkit
+sales performance,customer satisfaction,and 
+inventory distribution to identify key insight
+and oppurtunities for optimization using 
+various KPI and visualization in power bi
+
+
+kpi Requirements:
+1.Total sales: The overall revenue generated
+  frm all items sold
+2.Average Sales:The average revenue Per sale
+3.Number of Items:The Total Count OF different items sold
+4.Average Rating:The average customer rating for item sold
+
+
+**CHARTS REQUIREMENT**
+1.TOTAL SALES BY FAT CONTENT
+--OBJECTIVE:Analyze the impact of fat content in total sales
+--add kpi metrics:Assess how other kpi(
+  avg sales,no of items,avg rat)vary with fat content
+--chart type:donut chart
+2.total sales by item type
+--objective:identify the performance of diff item types in terms of sales
+--add kpi metrics:Assess how other kpi(
+  avg sales,no of items,avg rat)vary with fat content
+--chart types:bar chart
+3.fat content by outlet for total sales
+--objective:compare total sales across diff outlet segmented by fat content
+--add kpi metrices:Assess how other kpi(
+  avg sales,no of items,avg rat)vary with fat content
+--chat types:stacked column charts
+4.total sales by outlet establishment
+--objective:evaluate how the age or type of oulet establishment influences total sales
+--chart types:line chart
+5. sales by outlet size
+--objective:analyze the correlation 
+  between outlet size and total sales
+--chart type:donut/pie chart
+6.sales by outlet location
+--objective:access the geographical distribution 
+  of sales across different location
+--chart type:funnel map
+7.all metrics by outlet types:
+--objective:provide a comprehensive view
+  of all key metrics(total sles,avg_sales
+  no_of_item,avg rating)broken down by diff outlet types
+--chart tyoe:matrix card
